@@ -1,0 +1,9 @@
+.service-block i {
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+
+.service-block:hover i {
+  top: -10px;
+}
